@@ -1,0 +1,69 @@
+I, [2019-09-30T22:03:37.787253 #17001]  INFO -- : [2b43401a-67bb-455d-8543-b9f5700095e4] Started GET "/api/welcome" for 127.0.0.1 at 2019-09-30 22:03:37 +0530
+I, [2019-09-30T22:03:37.788709 #17001]  INFO -- : [2b43401a-67bb-455d-8543-b9f5700095e4] Processing by WelcomeController#index as */*
+I, [2019-09-30T22:03:37.789977 #17001]  INFO -- : [2b43401a-67bb-455d-8543-b9f5700095e4] Completed 200 OK in 1ms (Views: 0.3ms)
+I, [2019-09-30T22:03:42.633860 #17001]  INFO -- : [db308402-c3f4-4379-903c-6e957e8bb583] Started GET "/api/welcome" for 127.0.0.1 at 2019-09-30 22:03:42 +0530
+I, [2019-09-30T22:03:42.634607 #17001]  INFO -- : [db308402-c3f4-4379-903c-6e957e8bb583] Processing by WelcomeController#index as */*
+I, [2019-09-30T22:03:42.635183 #17001]  INFO -- : [db308402-c3f4-4379-903c-6e957e8bb583] Completed 200 OK in 0ms (Views: 0.2ms)
+I, [2019-09-30T22:03:56.624388 #17001]  INFO -- : [15e1853d-59da-4f1f-8eaa-91cb561908fe] Started GET "/api/welcome" for 127.0.0.1 at 2019-09-30 22:03:56 +0530
+I, [2019-09-30T22:03:56.625303 #17001]  INFO -- : [15e1853d-59da-4f1f-8eaa-91cb561908fe] Processing by WelcomeController#index as */*
+I, [2019-09-30T22:03:56.626006 #17001]  INFO -- : [15e1853d-59da-4f1f-8eaa-91cb561908fe] Completed 200 OK in 0ms (Views: 0.3ms)
+I, [2019-09-30T22:12:22.513355 #17001]  INFO -- : [6ce982a2-7b64-4583-9de1-7f3d82965c3a] Started GET "/api/welcome" for 127.0.0.1 at 2019-09-30 22:12:22 +0530
+I, [2019-09-30T22:12:22.514207 #17001]  INFO -- : [6ce982a2-7b64-4583-9de1-7f3d82965c3a] Processing by WelcomeController#index as */*
+I, [2019-09-30T22:12:22.514944 #17001]  INFO -- : [6ce982a2-7b64-4583-9de1-7f3d82965c3a] Completed 200 OK in 0ms (Views: 0.2ms)
+I, [2019-09-30T22:12:56.259119 #17001]  INFO -- : [dfc8127a-0fa0-4e8e-8f2b-970d6cdf8ce1] Started GET "/api/welcome" for 127.0.0.1 at 2019-09-30 22:12:56 +0530
+I, [2019-09-30T22:12:56.260090 #17001]  INFO -- : [dfc8127a-0fa0-4e8e-8f2b-970d6cdf8ce1] Processing by WelcomeController#index as */*
+I, [2019-09-30T22:12:56.260910 #17001]  INFO -- : [dfc8127a-0fa0-4e8e-8f2b-970d6cdf8ce1] Completed 200 OK in 1ms (Views: 0.3ms)
+I, [2019-09-30T22:13:47.491370 #17001]  INFO -- : [2c07e369-d50e-49e9-a5f1-217656dceb40] Started GET "/api/welcome" for 127.0.0.1 at 2019-09-30 22:13:47 +0530
+I, [2019-09-30T22:13:47.491979 #17001]  INFO -- : [2c07e369-d50e-49e9-a5f1-217656dceb40] Processing by WelcomeController#index as */*
+I, [2019-09-30T22:13:47.492434 #17001]  INFO -- : [2c07e369-d50e-49e9-a5f1-217656dceb40] Completed 200 OK in 0ms (Views: 0.2ms)
+I, [2019-09-30T22:13:58.650068 #17001]  INFO -- : [28faf899-94f6-4951-ab05-818f436f3ec7] Started GET "/api/welcome" for 127.0.0.1 at 2019-09-30 22:13:58 +0530
+I, [2019-09-30T22:13:58.650737 #17001]  INFO -- : [28faf899-94f6-4951-ab05-818f436f3ec7] Processing by WelcomeController#index as */*
+I, [2019-09-30T22:13:58.651214 #17001]  INFO -- : [28faf899-94f6-4951-ab05-818f436f3ec7] Completed 200 OK in 0ms (Views: 0.2ms)
+I, [2019-09-30T22:14:05.904689 #17001]  INFO -- : [3a7653b6-ecb1-4cc0-b867-10f97cc50635] Started GET "/api/welcome" for 127.0.0.1 at 2019-09-30 22:14:05 +0530
+I, [2019-09-30T22:14:05.905628 #17001]  INFO -- : [3a7653b6-ecb1-4cc0-b867-10f97cc50635] Processing by WelcomeController#index as */*
+I, [2019-09-30T22:14:05.906426 #17001]  INFO -- : [3a7653b6-ecb1-4cc0-b867-10f97cc50635] Completed 200 OK in 1ms (Views: 0.3ms)
+I, [2019-09-30T22:16:35.292969 #17001]  INFO -- : [6e78db4f-f1b7-4c74-ba55-a32be695f76c] Started GET "/api/welcome" for 127.0.0.1 at 2019-09-30 22:16:35 +0530
+I, [2019-09-30T22:16:35.293782 #17001]  INFO -- : [6e78db4f-f1b7-4c74-ba55-a32be695f76c] Processing by WelcomeController#index as HTML
+I, [2019-09-30T22:16:35.294410 #17001]  INFO -- : [6e78db4f-f1b7-4c74-ba55-a32be695f76c] Completed 200 OK in 0ms (Views: 0.2ms)
+I, [2019-09-30T22:18:59.111327 #19027]  INFO -- : [fbfd9ff6-10e7-4ac9-8aaa-eaf685b4abb7] Started GET "/api/welcome" for 127.0.0.1 at 2019-09-30 22:18:59 +0530
+I, [2019-09-30T22:18:59.113245 #19027]  INFO -- : [fbfd9ff6-10e7-4ac9-8aaa-eaf685b4abb7] Processing by WelcomeController#index as */*
+I, [2019-09-30T22:18:59.114797 #19027]  INFO -- : [fbfd9ff6-10e7-4ac9-8aaa-eaf685b4abb7] Completed 200 OK in 1ms (Views: 0.4ms)
+I, [2019-09-30T22:19:05.062907 #19027]  INFO -- : [433e19ee-3e3b-44d5-b17d-d9ef5134ea0e] Started GET "/api/welcome" for 127.0.0.1 at 2019-09-30 22:19:05 +0530
+I, [2019-09-30T22:19:05.064049 #19027]  INFO -- : [433e19ee-3e3b-44d5-b17d-d9ef5134ea0e] Processing by WelcomeController#index as */*
+I, [2019-09-30T22:19:05.064852 #19027]  INFO -- : [433e19ee-3e3b-44d5-b17d-d9ef5134ea0e] Completed 200 OK in 1ms (Views: 0.3ms)
+I, [2019-09-30T22:20:06.838880 #19027]  INFO -- : [baf16e35-d24f-4c3d-bb70-7e9a615b6a9c] Started GET "/api/welcome" for 127.0.0.1 at 2019-09-30 22:20:06 +0530
+I, [2019-09-30T22:20:06.839667 #19027]  INFO -- : [baf16e35-d24f-4c3d-bb70-7e9a615b6a9c] Processing by WelcomeController#index as */*
+I, [2019-09-30T22:20:06.840420 #19027]  INFO -- : [baf16e35-d24f-4c3d-bb70-7e9a615b6a9c] Completed 200 OK in 0ms (Views: 0.3ms)
+I, [2019-09-30T22:20:14.870055 #19027]  INFO -- : [8989abd9-4b39-437c-bc82-c8def0113298] Started GET "/api/welcome" for 127.0.0.1 at 2019-09-30 22:20:14 +0530
+I, [2019-09-30T22:20:14.871391 #19027]  INFO -- : [8989abd9-4b39-437c-bc82-c8def0113298] Processing by WelcomeController#index as */*
+I, [2019-09-30T22:20:14.872057 #19027]  INFO -- : [8989abd9-4b39-437c-bc82-c8def0113298] Completed 200 OK in 0ms (Views: 0.3ms)
+I, [2019-09-30T22:22:19.526781 #19027]  INFO -- : [4a280327-edb9-4c43-9001-6fbd3dc4d550] Started GET "/api/welcome" for 127.0.0.1 at 2019-09-30 22:22:19 +0530
+I, [2019-09-30T22:22:19.527645 #19027]  INFO -- : [4a280327-edb9-4c43-9001-6fbd3dc4d550] Processing by WelcomeController#index as */*
+I, [2019-09-30T22:22:19.528341 #19027]  INFO -- : [4a280327-edb9-4c43-9001-6fbd3dc4d550] Completed 200 OK in 0ms (Views: 0.2ms)
+I, [2019-09-30T22:22:30.320160 #19027]  INFO -- : [d90df28d-4e3d-4e9c-9188-45664e282eeb] Started GET "/api/welcome" for 127.0.0.1 at 2019-09-30 22:22:30 +0530
+I, [2019-09-30T22:22:30.321229 #19027]  INFO -- : [d90df28d-4e3d-4e9c-9188-45664e282eeb] Processing by WelcomeController#index as */*
+I, [2019-09-30T22:22:30.322074 #19027]  INFO -- : [d90df28d-4e3d-4e9c-9188-45664e282eeb] Completed 200 OK in 1ms (Views: 0.3ms)
+I, [2019-09-30T22:23:24.450561 #19799]  INFO -- : [f2feec45-a7b7-4519-bea4-713bd5041412] Started GET "/api/welcome" for 127.0.0.1 at 2019-09-30 22:23:24 +0530
+I, [2019-09-30T22:23:24.452120 #19799]  INFO -- : [f2feec45-a7b7-4519-bea4-713bd5041412] Processing by WelcomeController#index as */*
+I, [2019-09-30T22:23:24.453375 #19799]  INFO -- : [f2feec45-a7b7-4519-bea4-713bd5041412] Completed 200 OK in 1ms (Views: 0.3ms)
+I, [2019-09-30T22:27:04.592001 #20598]  INFO -- : [00c324aa-e8d1-46b1-8fa2-0014433b42f0] Started GET "/api/welcome" for 127.0.0.1 at 2019-09-30 22:27:04 +0530
+I, [2019-09-30T22:27:04.597460 #20598]  INFO -- : [00c324aa-e8d1-46b1-8fa2-0014433b42f0] Processing by WelcomeController#index as */*
+I, [2019-09-30T22:27:04.598952 #20598]  INFO -- : [00c324aa-e8d1-46b1-8fa2-0014433b42f0] Completed 200 OK in 1ms (Views: 0.4ms)
+I, [2019-09-30T22:28:09.664839 #20598]  INFO -- : [b87d1a6b-1b71-40f2-99a9-894584c73aa8] Started GET "/api/welcome" for 127.0.0.1 at 2019-09-30 22:28:09 +0530
+I, [2019-09-30T22:28:09.665338 #20598]  INFO -- : [b87d1a6b-1b71-40f2-99a9-894584c73aa8] Processing by WelcomeController#index as */*
+I, [2019-09-30T22:28:09.665653 #20598]  INFO -- : [b87d1a6b-1b71-40f2-99a9-894584c73aa8] Completed 200 OK in 0ms (Views: 0.1ms)
+I, [2019-09-30T22:31:44.448647 #20598]  INFO -- : [4fd58e0a-9ce3-4e85-8266-14a5a7f29dc2] Started GET "/api/welcome" for 127.0.0.1 at 2019-09-30 22:31:44 +0530
+I, [2019-09-30T22:31:44.454466 #20598]  INFO -- : [4fd58e0a-9ce3-4e85-8266-14a5a7f29dc2] Processing by WelcomeController#index as HTML
+I, [2019-09-30T22:31:44.457032 #20598]  INFO -- : [4fd58e0a-9ce3-4e85-8266-14a5a7f29dc2] Completed 200 OK in 2ms (Views: 1.7ms)
+I, [2019-09-30T22:32:00.246650 #20598]  INFO -- : [d0492aae-b965-431e-8ef3-1a5e470d3e0f] Started GET "/api/welcome" for 127.0.0.1 at 2019-09-30 22:32:00 +0530
+I, [2019-09-30T22:32:00.247263 #20598]  INFO -- : [d0492aae-b965-431e-8ef3-1a5e470d3e0f] Processing by WelcomeController#index as HTML
+I, [2019-09-30T22:32:00.247825 #20598]  INFO -- : [d0492aae-b965-431e-8ef3-1a5e470d3e0f] Completed 200 OK in 0ms (Views: 0.2ms)
+I, [2019-09-30T22:32:30.058649 #20598]  INFO -- : [bc6b3f96-0077-4a50-9419-de2c21fd4b4e] Started GET "/api/welcome" for 127.0.0.1 at 2019-09-30 22:32:30 +0530
+I, [2019-09-30T22:32:30.059180 #20598]  INFO -- : [bc6b3f96-0077-4a50-9419-de2c21fd4b4e] Processing by WelcomeController#index as HTML
+I, [2019-09-30T22:32:30.059849 #20598]  INFO -- : [bc6b3f96-0077-4a50-9419-de2c21fd4b4e] Completed 200 OK in 0ms (Views: 0.3ms)
+I, [2019-09-30T22:34:38.979567 #20598]  INFO -- : [504ae9c5-f202-4c1e-a7d5-b8f89491d4f6] Started GET "/api/welcome" for 127.0.0.1 at 2019-09-30 22:34:38 +0530
+I, [2019-09-30T22:34:38.980237 #20598]  INFO -- : [504ae9c5-f202-4c1e-a7d5-b8f89491d4f6] Processing by WelcomeController#index as HTML
+I, [2019-09-30T22:34:38.980730 #20598]  INFO -- : [504ae9c5-f202-4c1e-a7d5-b8f89491d4f6] Completed 200 OK in 0ms (Views: 0.2ms)
+I, [2019-09-30T22:34:46.925195 #20598]  INFO -- : [dd1a0bf4-a154-45e1-812d-04334b5e6ee8] Started GET "/api/welcome" for 127.0.0.1 at 2019-09-30 22:34:46 +0530
+I, [2019-09-30T22:34:46.925949 #20598]  INFO -- : [dd1a0bf4-a154-45e1-812d-04334b5e6ee8] Processing by WelcomeController#index as HTML
+I, [2019-09-30T22:34:46.926509 #20598]  INFO -- : [dd1a0bf4-a154-45e1-812d-04334b5e6ee8] Completed 200 OK in 0ms (Views: 0.2ms)
